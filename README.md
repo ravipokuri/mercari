@@ -25,7 +25,10 @@ ML PROBLEM FORMULATION:
 
 
 PERFORMANC METRIC:
-  performance metric here we are using is root mean squared logarithmic error,instead of mse because the prices in training dataset follows the lo_nrmal distribution. 
+  performance metric here we are using is root mean squared logarithmic error,instead of mse because the prices in training dataset follows the log_nrmal distribution. 
+  
+  
+  
    ![metric](https://user-images.githubusercontent.com/48234359/140683629-bb4ecbc3-69c3-4891-83b9-05da72c879bc.png)
 
 
