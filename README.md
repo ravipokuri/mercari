@@ -12,12 +12,12 @@ within the close vicinity of the actual price.
 strictly speaking there is no latency constraint because
 people may wait for time to get the correct prices of the products
 so that no one will get loss i.e both buyer and seller.
-ML PROBLEM FORMULATION:
+#ML PROBLEM FORMULATION:
    here we have to predict the price of a product given with features,which is a numerical value,so it poses us a regression problem
-PERFORMANC METRIC:
+#PERFORMANC METRIC:
   performance metric here we are using is root mean squared logarithmic error,instead of mse because the prices in training dataset follows the lo_nrmal distribution. 
    ![metric](https://user-images.githubusercontent.com/48234359/140683629-bb4ecbc3-69c3-4891-83b9-05da72c879bc.png)
-Approaches:
+#Approaches:
 Machine learning is the fastest growing field in the world.
 Everyday there will be a launch of bunch of new algorithms. Some of them may work and some may not work on the data.
 Their is no such ML algorithm that gives the super result then all the existing models. If it exists then all the models will be gone into dustbin.
