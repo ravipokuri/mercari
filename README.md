@@ -45,4 +45,4 @@ Let's try a bunch of regression models to apply on the dataset and we even try a
 
 
 
-You can see my article on this here:https://medium.com/@pokuriraviteja2015/sentence-correction-using-recurrent-neural-networks-e06d7fe0212f    
+You can see my article on this here:https://medium.com/@pokuriraviteja2015/mercari-price-recommendation-problem-8e88b1124abe 
